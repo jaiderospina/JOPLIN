@@ -1,7 +1,9 @@
-# Comandos empleados :
+# Comandos empleados:
 
 $ git clone https://github.com/jmlcas/joplin 
+
 $ cd joplin
+
 $ docker-compose up -d 
 
 
