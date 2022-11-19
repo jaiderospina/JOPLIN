@@ -18,3 +18,8 @@ Login:
 email: admin@localhost
 
 password: admin
+
+
+# Importante, cambiar ip en dockercompose:
+
+ APP_BASE_URL=${APP_BASE_URL}  #  Poner IP ó URL
