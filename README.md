@@ -1,3 +1,10 @@
+# Comandos empleados :
+
+$ git clone https://github.com/jmlcas/joplin 
+$ cd joplin
+$ docker-compose up -d 
+
+
 # joplin
 Joplin - Sincronizar archivos - Docker compose
 
