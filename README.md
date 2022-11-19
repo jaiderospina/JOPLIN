@@ -7,7 +7,8 @@ $ cd joplin
 $ docker-compose up -d 
 
 
-# joplin
+# Variables de entorno - joplin
+
 Joplin - Sincronizar archivos - Docker compose
 
 Ver en "localhost:8200"
